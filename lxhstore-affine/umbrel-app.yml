@@ -3,6 +3,7 @@ id: lxhstore-affine
 name: Affine
 tagline: Open source alternative to Notion, Miro, and Airtable
 category: files
+icon: https://getumbrel.github.io/umbrel-apps-gallery/affine/icon.svg
 version: "0.14.2"
 port: 3013
 description: >-
